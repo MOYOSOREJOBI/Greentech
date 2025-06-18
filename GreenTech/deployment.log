@@ -1,0 +1,11 @@
+2025-04-14 00:24:32,493 - energy_efficiency_deployment - WARNING - Summary file not found: ./results/summary.json
+2025-04-14 00:24:32,493 - energy_efficiency_deployment - ERROR - Cannot load models: Summary not available or missing best_models information
+2025-04-14 00:24:32,500 - energy_efficiency_deployment - WARNING - Heating load model not available for prediction
+2025-04-14 00:24:32,500 - energy_efficiency_deployment - WARNING - Cooling load model not available for prediction
+2025-04-14 00:24:32,501 - energy_efficiency_deployment - INFO - Predictions made for 1 samples
+2025-04-14 00:24:32,504 - energy_efficiency_deployment - INFO - Starting batch prediction for file: sample_batch.csv
+2025-04-14 00:24:32,507 - energy_efficiency_deployment - INFO - Loaded 3 samples from sample_batch.csv
+2025-04-14 00:24:32,508 - energy_efficiency_deployment - WARNING - Heating load model not available for prediction
+2025-04-14 00:24:32,508 - energy_efficiency_deployment - WARNING - Cooling load model not available for prediction
+2025-04-14 00:24:32,509 - energy_efficiency_deployment - INFO - Predictions made for 3 samples
+2025-04-14 00:24:32,509 - energy_efficiency_deployment - INFO - Predictions saved to batch_prediction_results.csv
